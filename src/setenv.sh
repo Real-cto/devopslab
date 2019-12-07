@@ -1,8 +1,8 @@
 export GITACCOUNT=
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing17
 export KUBECONFIG=
 
-export NAMESPACE=
+export NAMESPACE=ctocto
 export EMAIL=
 export INGRESS=
